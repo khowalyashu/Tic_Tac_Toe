@@ -31,7 +31,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/khowalyashu/tic-tac-toe.git
 Navigate to the project directory:
 
 bash
@@ -57,7 +57,8 @@ The project structure is organized as follows:
 
 index.html: The main HTML file containing the game board and JavaScript integration.
 style.css: The CSS file for styling the game.
-script.js: The JavaScript file for game logic.
+index.js: The JavaScript file for game logic.
+
 README.md: This file providing information about the game and how to run it.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
